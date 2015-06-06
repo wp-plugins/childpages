@@ -34,6 +34,9 @@ You can also add css class to the `<ul>` tag, to match the widget's styling with
 
 == Changelog ==
 
+= 1.1 =
+* This update slightly changes the behaviour of the widget: no matter on which childpage you are, you'll always see the childpages starting from the parent. Use the depth option to limit how deep you want to show the childpages
+
 = 1.0.1 =
 * Added "depth" option
 * Removed option to add a CSS class on each page item (each <li>)
